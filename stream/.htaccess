@@ -1,0 +1,6 @@
+# BEGIN IXDISK PROTECTOR
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(.*).zip stop.php?fileid=$1
+</IfModule>
+# END IXDISK PROTECTOR
