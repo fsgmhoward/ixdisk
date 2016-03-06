@@ -1,23 +1,4 @@
-#IXNetwork Group
+# IXDisk
+## A Light-weighted File Sharing System
 
-##授权许可
-
-您对本作品享有如下权利：
-
-1. 使用
-2. 查看源代码
-3. 修改
-4. 再分发
-
-唯独**必须**遵守如下原则：
-
-1. 保持IXNetwork的署名
-2. 不得用作商业目的
-3. 以相同的协议（即本协议）进行二次分发
-4. 不得与其它依照不同协议的程序进行合并，包括已经购买商业授权不得与没有购买或没有商业授权的本团队开发的程序进行混合。
-
-附加说明：
-
-1. 若获得IXNetwork许可，上述条款皆可免除
-2. 一部分程序拥有商业授权，购买商业授权后上述条款除了原则**四**皆可免除
-2. IXNetwork保留对授权条款的最终解释权
+## Currently this project is not being developing because of some issues.
